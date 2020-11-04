@@ -85,4 +85,4 @@ Recall for low risk is 0.95 and high risk is 0.91
 Precison for low risk is 1 and high risk is 0.08
 Geometric mean is 0.93
 
-Comparing the metrics for both the models, Easy Ensemble Classifier is more accurate to presict the data.
+Comparing the metrics for both the models, Easy Ensemble Classifier is more accurate to predict the data.
